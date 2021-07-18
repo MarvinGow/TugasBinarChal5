@@ -1,0 +1,42 @@
+[
+  {
+  "id": 1,
+  "name": "Trousers",
+  "priceLow": "10.000",
+  "priceHigh": "50.000",
+  "currency": "Rp.",
+  "isSale": true,
+  "stock": 1,
+  "description": "Trousers - Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, veniam."
+  }, 
+  {
+    "id": 2,
+    "name": "Samsung",
+    "priceLow": "10000",
+    "priceHigh": "5000",
+    "currency": "USD",
+    "isSale": false,
+    "stock": 2,
+    "description": "Samsung - Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, veniam."
+  },
+  {
+    "id": 3,
+    "name": "Iphone",
+    "priceLow": "1000",
+    "priceHigh": "5000",
+    "currency": "AUD",
+    "isSale": true,
+    "stock": 5,
+    "description": "Iphone - Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, veniam."
+  },
+  {
+    "id": 4,
+    "name": "Jacuzzi",
+    "priceLow": "10.000.000",
+    "priceHigh": "50.000,000",
+    "currency": "Rp.",
+    "isSale": false,
+    "stock": 9,
+    "description": "Jacuzzi - Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, veniam."
+  }
+]

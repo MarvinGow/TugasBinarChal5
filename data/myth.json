@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "first_name": "Arthur",
+        "last_name": "Pendragon",
+        "email": "arthur@mail.com"
+    },
+    {
+        "id": 2,
+        "first_name": "Jack",
+        "last_name": "TheRipper",
+        "email": "jack@mail.com"
+    },
+    {
+        "id": 3,
+        "first_name": "Sherlock",
+        "last_name": "Holmes",
+        "email": "sherlockholmes@mail.com"
+    },
+    {
+        "id": 4,
+        "first_name": "Uther",
+        "last_name": "Pendragon",
+        "email": "excalibur@mail.com"
+    }
+]
